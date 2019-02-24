@@ -1,0 +1,3 @@
+CHANGED,C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastDynReg\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\examples\broadcastreceiver\singlebroadcastdynamicregistration\SingleBroadcast$override.class
+CHANGED,C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastDynReg\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\examples\broadcastreceiver\singlebroadcastdynamicregistration\SingleBroadcast$1$override.class
+CHANGED,C:\Users\Mohammed\AndroidStudioProjects\BcastRecSinBcastDynReg\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
